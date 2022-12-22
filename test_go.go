@@ -1,7 +1,7 @@
-package main
+package gomodule
 
 import "fmt"
 
-func main() {
+func gomodtest() {
     fmt.Println("Hello, World!")
 }
